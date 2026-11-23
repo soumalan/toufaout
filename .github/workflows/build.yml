@@ -1,5 +1,5 @@
 
-name: Build 3DA-Reborn
+name: Build toufaout
 
 on:
   workflow_dispatch:
